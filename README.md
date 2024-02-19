@@ -46,3 +46,8 @@
 ## Клиент - сервер
 - Browser -> [GET, POST] -> request
 - Django -> urls -> view [models, template] -> response
+
+## Модели
+- создание модели https://docs.djangoproject.com/en/5.0/ref/models/fields/
+- миграции
+- [добавление модели в админку - admin.py] 
